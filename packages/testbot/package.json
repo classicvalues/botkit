@@ -24,6 +24,6 @@
     "botkit-plugin-cms": "^1.0.3",
     "dotenv": "^6.2.0",
     "express-basic-auth": "^1.1.6",
-    "restify": "^8.4.0"
+    "restify": "^12.0.0"
   }
 }
